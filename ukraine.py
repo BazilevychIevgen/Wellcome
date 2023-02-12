@@ -23,7 +23,7 @@ class Database:
 
     
    def connect_to_database(self):
-       Database._connected_to_database = True
+       Database._connected_to_database = 
        print("Під'єднано до бази даних")
        
        

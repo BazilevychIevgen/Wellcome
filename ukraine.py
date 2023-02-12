@@ -18,7 +18,7 @@ class Database:
        return self.__database_name
 
    def set_database_name(self , value):
-       self.__database_name = value dsaewq
+       self.__database_name = value git st
        
 
     
